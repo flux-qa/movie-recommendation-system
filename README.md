@@ -132,3 +132,5 @@ Usage:
 Note: Only the top 2.5K movies based on IMBD are present in this system's database.
 
 > **Working on [version 2 of movie recommendation system on new repository](https://github.com/inboxpraveen/movie-recommendation-system-version-2) which can process 1 million movies within similar memory footprints, better recommendations, and diverse selections, with added features like recommendation bucket and mutual sharing. Stay tuned and do not forget to start the repository to reach out to open-source community.**
+
+.
